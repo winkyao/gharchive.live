@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocus=self.webpackChunkdocus||[]).push([[741],{50872:function(a){a.exports=JSON.parse('{"allTagsPath":"/gharchive.live/blog/tags","slug":"/gharchive.live/blog/tags/hola","name":"hola","count":1,"permalink":"/gharchive.live/blog/tags/hola"}')}}]);
