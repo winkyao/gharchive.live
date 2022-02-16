@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>GH Archive Live Blog</title>
-        <link>https://pingcap-inc.github.io/gharchive.live/blog</link>
+        <link>https://gharchive.live/blog</link>
         <description>GH Archive Live Blog</description>
         <lastBuildDate>Wed, 29 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[2022-01 OSS Monthly Report]]></title>
-            <link>https://pingcap-inc.github.io/gharchive.live/blog/long-blog-post</link>
+            <link>https://gharchive.live/blog/long-blog-post</link>
             <guid>long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the summary of a very long blog post,]]></description>
@@ -17,7 +17,7 @@
         </item>
         <item>
             <title><![CDATA[2022-02 OSS Monthly Report]]></title>
-            <link>https://pingcap-inc.github.io/gharchive.live/blog/first-blog-post</link>
+            <link>https://gharchive.live/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
