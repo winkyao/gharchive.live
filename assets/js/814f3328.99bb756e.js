@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocus=self.webpackChunkdocus||[]).push([[535],{45641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"2022-01 OSS Monthly Report","permalink":"/blog/long-blog-post"},{"title":"2022-02 OSS Monthly Report","permalink":"/blog/first-blog-post"}]}')}}]);
