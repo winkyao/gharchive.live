@@ -4,14 +4,14 @@
         <title>GH Archive Live: trends about oss database, js/web framework and more Blog</title>
         <link>https://gharchive.live/blog</link>
         <description>GH Archive Live: trends about oss database, js/web framework and more Blog</description>
-        <lastBuildDate>Fri, 18 Feb 2022 07:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 07:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[About]]></title>
             <link>https://gharchive.live/blog/about</link>
             <guid>/about</guid>
-            <pubDate>Fri, 18 Feb 2022 07:20:46 GMT</pubDate>
+            <pubDate>Fri, 18 Feb 2022 07:41:43 GMT</pubDate>
             <description><![CDATA[We love data, so we create TiDB, we love open source, so we analyze it.]]></description>
             <content:encoded><![CDATA[<blockquote><p>We love data, so we create TiDB, we love open source, so we analyze it.</p></blockquote>]]></content:encoded>
         </item>
@@ -19,7 +19,7 @@
             <title><![CDATA[Changelog]]></title>
             <link>https://gharchive.live/blog/changelog</link>
             <guid>/changelog</guid>
-            <pubDate>Fri, 18 Feb 2022 07:20:46 GMT</pubDate>
+            <pubDate>Fri, 18 Feb 2022 07:41:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
