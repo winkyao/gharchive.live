@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gharchive.live/blog</id>
     <title>GH Archive Live Blog</title>
-    <updated>2022-02-21T02:33:03.623Z</updated>
+    <updated>2022-02-21T05:07:36.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gharchive.live/blog"/>
     <subtitle>GH Archive Live Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[About]]></title>
         <id>/about</id>
         <link href="https://gharchive.live/blog/about"/>
-        <updated>2022-02-21T02:33:03.623Z</updated>
+        <updated>2022-02-21T05:07:36.487Z</updated>
         <summary type="html"><![CDATA[Who we are?]]></summary>
         <content type="html"><![CDATA[<h3>Who we are?</h3><blockquote><p>PingCAP started in 2015 when three seasoned infrastructure engineers were sick and tired of the way databases were managed, scaled, and maintained while working at leading Internet companies.</p><p>Seeing no good solution on the market, they decided to build one themselves — the open-source way.</p><p>With the help of a first-class team, and hundreds of contributors from around the globe, PingCAP is building an open-source distributed NewSQL Hybrid Transactional and Analytical Processing (HTAP) database. TiDB, our flagship project, is a cloud-native distributed SQL layer with MySQL compatibility, and one of the most popular open-source database projects in the world (don’t take our word for it, check it out). TiDB’s sister project, TiKV, is a cloud-native distributed Key-Value store. It is now a CNCF Graduated project.</p></blockquote><p><a href="https://pingcap.com/about-us/">Learn more about PingCAP</a></p><h3>What is TiDB Cloud?</h3><blockquote><p>Get a fully managed service of TiDB: an open source, cloud native, distributed, MySQL compatible database for elastic scale and real-time analytics.</p><p>TiDB Cloud is now in Public Preview and offers a one-year free trial with the Developer Tier.</p></blockquote><h3>Why we build this project?</h3><blockquote><p><em>&quot;We love data, so we create TiDB, we love open source, so we analyze it.&quot;</em> - PingCAP</p></blockquote><h3>Where the data comes from?</h3><blockquote><p>Open-source developers all over the world are working on millions of projects: writing code &amp; documentation, fixing &amp; submitting bugs, and so forth. GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.</p></blockquote><p><a href="http://www.gharchive.org/">Learn more about GH Archive</a></p><h3>where is the data stored?</h3><blockquote><p>We use <a href="https://tidbcloud.com">TiDB Cloud</a> to store data, more than 4 billion rows.</p></blockquote><h3>How is the instantaneity of the data?</h3><blockquote><p>GH Archive project provides data hourly, even though TiDB Cloud can be realtime...</p></blockquote><h3>How many clusters ( databases ) are used?</h3><blockquote><p>OOONLY one, for both OLTP and OLAP queries.</p></blockquote><h3><a href="https://pingcap.com/contact-us/">Contact Us</a></h3>]]></content>
         <author>
@@ -23,6 +23,6 @@
         <title type="html"><![CDATA[Changelog]]></title>
         <id>/changelog</id>
         <link href="https://gharchive.live/blog/changelog"/>
-        <updated>2022-02-21T02:33:03.623Z</updated>
+        <updated>2022-02-21T05:07:36.487Z</updated>
     </entry>
 </feed>
